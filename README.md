@@ -17,4 +17,15 @@ Before you can build and run this project, ensure that you have the following de
 ## Build Instructions
 
 ```bash
-$ make
+- **Testing** For testing.
+$ make test 
+
+- **Inititalisation 1** First way of initialisation.
+$ make  pubsub
+
+- **Initialisation 2 ** Second way of initialisation.
+$ make pubsub2 
+
+- **Cache** For setting up cache using redis .
+$ make cache
+
