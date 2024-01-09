@@ -24,7 +24,7 @@ $ make test
 ```bash
 $ make  pubsub
 ```
-- **Initialisation 2 ** Second way of initialisation.
+- **Initialisation 2** Second way of initialisation.
 ```bash
 $ make pubsub2 
 ```
